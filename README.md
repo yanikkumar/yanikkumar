@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Believe Master Projects
+- 🌱 I’m currently learning New Web Development Tools
+- 🤔 I’m looking for help with web development for Believe Master Projects.
+- 💬 Ask me about anything (Technologies, Busienss, Videos, Travelling etc)
+- 📫 How to reach me: linktr.ee/yanikkumar
+- ⚡ Fun fact: I'm still exploring who I am. Coding is just addon in my exploring part.
+
 <!--
 **believemaster/believemaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
