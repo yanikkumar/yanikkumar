@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -26,9 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-```
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="yanikkumar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yanikkumar?trk=profile-badge">Yanik Kumar</a></div>
-```
 
 ![](https://komarev.com/ghpvc/?username=believemaster)
