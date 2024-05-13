@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything (Technologies, Business, Videos, Travelling, etc)
 - 📫 How to reach me: <a href="https://linktr.ee/yanikkumar" target="_blank">https://linktr.ee/yanikkumar</a>
 - ⚡ Fun fact: I'm still exploring who I am. Coding is just an add-on in my exploration part.
-- 📷 Watch my life: Subscribe to my <a href="https://ytube.io/3Ekw">👉🏻 [Youtube Channel](https://ytube.io/3Ekw) 👈🏻</a>
+- 📷 Watch my life: Subscribe to my 👉🏻<a href="https://ytube.io/3Ekw">[Youtube Channel](https://ytube.io/3Ekw)</a>👈🏻
 
 <!--
 **yanikkumar/yanikkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
