@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on two of my baby projects <a href="https://feedinweb.com">https://feedinweb.com</a> and <a href="https://believemaster.com">https://believemaster.com</a>
 - 🌱 I’m currently learning New Web Development Tools & Technologies (Mostly working with Laravel, Livewire, Bootstrap, and Angular)
-- 🤔 I’m looking for help with project development and updation of <a href="https://feedinweb.com">FeedinWeb (β)</a> Looking for a UI/UX and Frontend Designer.
+- 🤔 I’m looking for help with project development and updation of <a href="https://feedinweb.com">FeedinWeb (β)</a> and <a href="https://believemaster.com">Believe Master</a> Looking for a UI/UX and Frontend Designer.
 - 💬 Ask me about anything (Technologies, Business, Videos, Travelling, etc)
 - 📫 How to reach me: <a href="https://linktr.ee/yanikkumar" target="_blank">https://linktr.ee/yanikkumar</a>
 - ⚡ Fun fact: I'm still exploring who I am. Coding is just an add-on in my exploration part.
