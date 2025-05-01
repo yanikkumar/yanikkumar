@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=yanikkumar)
-![GitHub language count](https://img.shields.io/github/languages/count/:user/:repo)
