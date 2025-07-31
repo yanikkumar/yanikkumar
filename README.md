@@ -18,7 +18,7 @@
 - 🧠 Working with modern web technologies: Laravel, Livewire, Bootstrap, Angular, Vue, TailwindCSS, AlpineJS, and more.
 - 🌱 Building an open-source PHP framework <a href="https://sproutphp.github.io" target="_blank"><img src="https://img.shields.io/badge/-SproutPHP-4E9A06?style=flat-square"></a> — contributions welcome!
 - 🤝 Seeking creative minds for UI/UX & frontend development for [FeedinWeb (β)](https://feedinweb.com) and [Believe Master](https://believemaster.com).
-- 💬 Ask me anything: Tech, business, videos, travel, or anything else!
+- 💬 Ask me anything: Tech, business, videos, travel, digital market or anything else!
 - ⚡ Fun fact: Still exploring who I am—coding is just one part of my journey.
 
 ---
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YII-D8582B?style=for-the-badge&logo=yii&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTMX-3d72d7?style=for-the-badge&logo=htmx&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
