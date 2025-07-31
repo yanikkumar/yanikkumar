@@ -17,7 +17,7 @@
   <a href="https://believemaster.com" target="_blank"><img src="https://img.shields.io/badge/-BelieveMaster-orange?style=flat-square"></a>
 - 🧠 Working with modern web technologies: Laravel, Livewire, Bootstrap, Angular, Vue, TailwindCSS, AlpineJS, and more.
 - 🌱 Building an open-source PHP framework <a href="https://sproutphp.github.io" target="_blank"><img src="https://img.shields.io/badge/-SproutPHP-4E9A06?style=flat-square"></a> — contributions welcome!
-- 🤝 Seeking creative minds for UI/UX & frontend development for [FeedinWeb (β)](https://feedinweb.com) and [Believe Master](https://believemaster.com).
+- 🤝 Seeking creative minds for UI/UX & frontend development for [FeedinWeb](https://feedinweb.com) and [Believe Master](https://believemaster.com).
 - 💬 Ask me anything: Tech, business, videos, travel, digital market or anything else!
 - ⚡ Fun fact: Still exploring who I am—coding is just one part of my journey.
 
