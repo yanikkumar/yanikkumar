@@ -13,9 +13,9 @@
 ## 🚀 About Me
 
 - 🔭 Hobby Projects:  
-  <a href="https://feedinweb.com" target="_blank"><img src="https://img.shields.io/badge/-FeedinWeb-blue?style=flat-square"></a>
-  <a href="https://believemaster.com" target="_blank"><img src="https://img.shields.io/badge/-BelieveMaster-orange?style=flat-square"></a>
-- 🧠 Working with modern web technologies: Laravel, Livewire, Bootstrap, Angular, Vue, TailwindCSS, AlpineJS, and more.
+  <a href="https://feedinweb.com" target="_blank"><img src="https://img.shields.io/badge/-FeedinWeb-0DCAF0?style=flat-square&logo=https://feedinweb.com/img/FeedWebLogo.png"></a>
+  <a href="https://believemaster.com" target="_blank"><img src="https://img.shields.io/badge/-BelieveMaster-FBBF24?style=flat-square&logo=https://believemaster.com/img/believemaster.png"></a>
+- 🧠 Working with modern web technologies: Laravel, Livewire, Bootstrap, Angular, Vue, InertiaJS, TailwindCSS, AlpineJS, and more.
 - 🌱 Building an open-source PHP framework <a href="https://sproutphp.github.io" target="_blank"><img src="https://img.shields.io/badge/-SproutPHP-4E9A06?style=flat-square"></a> — contributions welcome!
 - 🤝 Seeking creative minds for UI/UX & frontend development for [FeedinWeb](https://feedinweb.com) and [Believe Master](https://believemaster.com).
 - 💬 Ask me anything: Tech, business, videos, travel, digital market or anything else!
@@ -26,11 +26,12 @@
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Livewire-EE5D99?style=for-the-badge&logo=livewire&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inertia.js-3C366B?style=for-the-badge&logo=inertia&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -48,8 +49,8 @@
 
 <p align="center">
   <a href="https://linktr.ee/yanikkumar" target="_blank"><img src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-  <a href="https://ytube.io/3Ekw" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:believemasters@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://ytube.io/3Ekw" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="mailto:believemasters@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-1572B6?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -61,6 +62,11 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanikkumar&theme=radical" width="400px"/>
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yanikkumar" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
 </p>
 
 ---
