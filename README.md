@@ -61,9 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yanikkumar&show_icons=true&theme=radical" alt="yanikkumar's GitHub stats" width="400px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanikkumar&theme=radical" width="400px"/>
-</p>
-<p align="center">
   <a href="https://www.buymeacoffee.com/yanikkumar" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
