@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Yanik Kumar 👋</h1>
 <p align="center">
   <em>Web Developer • Open Source Enthusiast • Explorer</em><br/>
-  <a href="http://yanikkumar.com" target="_blank">www.yanikkumar.com</a>
+  <strong><a href="http://yanikkumar.com" target="_blank">www.yanikkumar.com</a></strong>
 </p>
 
 ---
