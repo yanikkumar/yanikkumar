@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://linktr.ee/yanikkumar" target="_blank"><img src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
   <a href="https://ytube.io/3Ekw" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:believemasters@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-1572B6?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:hello@yanikkumar.com" target="_blank"><img src="https://img.shields.io/badge/-Email-1572B6?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
