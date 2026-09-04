@@ -59,9 +59,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&fontFamily=Roboto&preferLogin=false">    
-      <img  alt="yanikkumar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yanikkumar?cardType=octocat&theme=github-dark&fontFamily=Roboto&preferLogin=false" />
-    </a>
+    <img  alt="yanikkumar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yanikkumar?cardType=octocat&theme=github-dark&fontFamily=Roboto&preferLogin=false" />
 </p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/yanikkumar" target="_blank">
