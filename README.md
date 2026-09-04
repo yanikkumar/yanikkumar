@@ -59,7 +59,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanikkumar&show_icons=true&theme=radical" alt="yanikkumar's GitHub stats" width="400px"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&fontFamily=Roboto&preferLogin=false">    
+      <img  alt="yanikkumar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yanikkumar?cardType=octocat&theme=github-dark&fontFamily=Roboto&preferLogin=false" />
+    </a>
 </p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/yanikkumar" target="_blank">
